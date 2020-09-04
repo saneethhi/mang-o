@@ -1,1 +1,2 @@
-# mang-o
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
